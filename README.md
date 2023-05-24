@@ -6,22 +6,12 @@ I'm **UzumakiHan**.
 **Languages and Frameworks**
 
 
-<code><img height="25" src="https://skillicons.dev/icons?i=nodejs&perline=1&theme=light" /></code>
-<code><img height="25" src="https://skillicons.dev/icons?i=vue&perline=1&theme=light" /></code>
-<code><img height="25" src="https://skillicons.dev/icons?i=react&perline=1&theme=light" /></code>
-<code><img height="25" src="https://skillicons.dev/icons?i=bootstrap&perline=1&theme=light" /></code>
-<code><img height="25" src="https://skillicons.dev/icons?i=git&perline=1&theme=light" /></code>
-<code><img height="25" src="https://skillicons.dev/icons?i=js&perline=1&theme=light" /></code>
-<code><img height="25" src="https://skillicons.dev/icons?i=ts&perline=1&theme=light" /></code>
-<code><img height="25" src="https://skillicons.dev/icons?i=scss&perline=1&theme=light" /></code>
-<code><img height="25" src="https://skillicons.dev/icons?i=css&perline=1&theme=light" /></code>
-<code><img height="25" src="https://skillicons.dev/icons?i=md&perline=1&theme=light" /></code>
-<code><img height="25" src="https://skillicons.dev/icons?i=html&perline=1&theme=light" /></code>
+<img height="30" src="https://skillicons.dev/icons?i=react,vue,vite,webpack,rollupjs,nodejs,js,ts,babel&perline=9&theme=dark" />
+<img height="30" src="https://skillicons.dev/icons?i=jquery,html,css,scss,nuxtjs,bootstrap,md,mongodb,mysql&perline=9&theme=dark" />
+<img height="30" src="https://skillicons.dev/icons?i=windicss,tailwind&perline=9&theme=dark" />
+
 
 
 **Tools and Environments**
 
-
-<code><img height="25" src="https://skillicons.dev/icons?i=vscode&perline=1&theme=light" /></code>
-<code><img height="25" src="https://skillicons.dev/icons?i=github&perline=1&theme=light" /></code>
-<code><img height="25" src="https://skillicons.dev/icons?i=ps&perline=1&theme=light" /></code>
+<img height="30" src="https://skillicons.dev/icons?i=vscode,github,gitlab,git,ps&perline=9&theme=dark" />
