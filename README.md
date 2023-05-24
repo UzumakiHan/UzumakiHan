@@ -18,6 +18,7 @@ I'm **UzumakiHan**.
 
 
 **Personal npm packages**
+
 | name   | version |  download |
 | :--: | :--: | :--: |
 | mfex-project |  <a href="https://www.npmjs.com/package/mfex-project"><img src="https://img.shields.io/npm/v/mfex-project" alt="NPM version"></a>  | <a href="https://www.npmjs.com/package/mfex-project"><img src="https://img.shields.io/npm/dt/mfex-project" alt="NPM download"></a> |
@@ -25,5 +26,10 @@ I'm **UzumakiHan**.
 | hfex-icon-plugin |  <a href="https://www.npmjs.com/package/hfex-icon-plugin"><img src="https://img.shields.io/npm/v/hfex-icon-plugin" alt="NPM version"></a>  | <a href="https://www.npmjs.com/package/hfex-icon-plugin"><img src="https://img.shields.io/npm/dt/hfex-icon-plugin" alt="NPM download"></a> |
 | hfex-list |  <a href="https://www.npmjs.com/package/hfex-list"><img src="https://img.shields.io/npm/v/hfex-list" alt="NPM version"></a>  | <a href="https://www.npmjs.com/package/hfex-list"><img src="https://img.shields.io/npm/dt/hfex-list" alt="NPM download"></a> |
 | eslint-config-hfex |  <a href="https://www.npmjs.com/package/eslint-config-hfex"><img src="https://img.shields.io/npm/v/eslint-config-hfex" alt="NPM version"></a>| <a href="https://www.npmjs.com/package/eslint-config-hfex"><img src="https://img.shields.io/npm/dt/eslint-config-hfex" alt="NPM download"></a>|
+| hfex-prettier-config |  <a href="https://www.npmjs.com/package/hfex-prettier-config"><img src="https://img.shields.io/npm/v/hfex-prettier-config" alt="NPM version"></a>| <a href="https://www.npmjs.com/package/hfex-prettier-config"><img src="https://img.shields.io/npm/dt/hfex-prettier-config" alt="NPM download"></a>|
+| hfex-stylelint-config |  <a href="https://www.npmjs.com/package/hfex-stylelint-config"><img src="https://img.shields.io/npm/v/hfex-stylelint-config" alt="NPM version"></a>| <a href="https://www.npmjs.com/package/hfex-stylelint-config"><img src="https://img.shields.io/npm/dt/hfex-stylelint-config" alt="NPM download"></a>|
 
+**CSDN**
+
+<code>https://blog.csdn.net/Hhjian524</code>
 
