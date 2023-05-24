@@ -1,16 +1,14 @@
 ### Hey, UzumakiHan here! 👋
 
-<!--
-**UzumakiHan/UzumakiHan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **UzumakiHan**.
 
-Here are some ideas to get you started:
+**Languages and Frameworks**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<code><img height="25" src="https://skillicons.dev/icons?i=nodejs&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=vue&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=react&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=bootstrap&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=git&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=js&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=ts&perline=1&theme=light" /></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=scss&perline=1&theme=light" /></code>
