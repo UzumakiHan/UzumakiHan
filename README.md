@@ -61,6 +61,10 @@ I'm **UzumakiHan**.
 
 <code>https://www.mama.cn/ask/pregnancy/</code>
 
+**Work applet**
+
+
+<img src="https://mp.weixin.qq.com/wxopen/qrcode?action=show&type=2&fakeid=3859001958&token=1516364686">
 
 
 
