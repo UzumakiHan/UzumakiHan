@@ -64,7 +64,25 @@ I'm **UzumakiHan**.
 **Work applet**
 
 
-<img src="https://mp.weixin.qq.com/wxopen/qrcode?action=show&type=2&fakeid=3859001958&token=1516364686">
+<div style="display:flex">
+  <img src="https://raw.githubusercontent.com/UzumakiHan/static-files/master/images/applet/mcn.png" width="100" height="100" >
+<img src="https://raw.githubusercontent.com/UzumakiHan/static-files/master/images/applet/milk.png" width="100" height="100">
+<img src="https://raw.githubusercontent.com/UzumakiHan/static-files/master/images/applet/photo.png" width="100" height="100">
+
+</div>
+
+
+
+**Personal applet**
+
+
+
+<div style="display:flex">
+  <img src="https://raw.githubusercontent.com/UzumakiHan/static-files/master/images/applet/code.png" width="100" height="100" >
+<img src="https://raw.githubusercontent.com/UzumakiHan/static-files/master/images/applet/class.png" width="100" height="100">
+<img src="https://raw.githubusercontent.com/UzumakiHan/static-files/master/images/applet/tv.png" width="100" height="100">
+
+</div>
 
 
 
