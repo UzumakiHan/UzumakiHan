@@ -61,7 +61,6 @@ I'm **UzumakiHan**.
 
 <code>https://www.mama.cn/ask/pregnancy/</code>
 
-<code>https://www.mama.cn/ask/pregnancy/</code>
 
 **Work applet**
 
