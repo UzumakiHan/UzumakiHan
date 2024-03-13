@@ -8,13 +8,15 @@ I'm **UzumakiHan**.
 
 <img height="30" src="https://skillicons.dev/icons?i=react,vue,vite,webpack,rollupjs,nodejs,js,ts,babel&perline=9&theme=dark" />
 <img height="30" src="https://skillicons.dev/icons?i=jquery,html,css,scss,nuxtjs,bootstrap,md,mongodb,mysql&perline=9&theme=dark" />
-<img height="30" src="https://skillicons.dev/icons?i=windicss,tailwind,express&perline=9&theme=dark" />
+<img height="30" src="https://skillicons.dev/icons?i=windicss,tailwind,express,pinia&perline=9&theme=dark" />
 
 
 
 **Tools and Environments**
 
-<img height="30" src="https://skillicons.dev/icons?i=vscode,github,gitlab,git,ps&perline=9&theme=dark" />
+<img height="30" src="https://skillicons.dev/icons?i=sublime,vscode,github,gitlab,git,ps,postman,yarn,npm&perline=9&theme=dark" />
+<img height="30" src="https://skillicons.dev/icons?i=pnpm&perline=9&theme=dark" />
+
 
 
 **Personal npm packages**
