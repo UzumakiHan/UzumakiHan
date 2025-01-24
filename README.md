@@ -8,7 +8,7 @@ I'm **UzumakiHan**.
 
 <img height="30" src="https://skillicons.dev/icons?i=react,vue,vite,webpack,rollupjs,nodejs,js,ts,babel&perline=9&theme=dark" />
 <img height="30" src="https://skillicons.dev/icons?i=jquery,html,css,scss,nuxtjs,bootstrap,md,mongodb,mysql&perline=9&theme=dark" />
-<img height="30" src="https://skillicons.dev/icons?i=windicss,tailwind,express,pinia&perline=9&theme=dark" />
+<img height="30" src="https://skillicons.dev/icons?i=dart,flutter,windicss,tailwind,express,pinia&perline=9&theme=dark" />
 
 
 
